@@ -80,7 +80,7 @@ The architecture of the Live Polling System consists of the following components
 
 ## Contributors
 
-- [Your Name or Organization]
+- Mr. SAAD AHMED MASOOD
 
 ## License
 
