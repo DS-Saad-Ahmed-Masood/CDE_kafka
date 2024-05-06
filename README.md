@@ -21,8 +21,6 @@ The architecture of the Live Polling System consists of the following components
 3. **Consumer**: Subscribes to Kafka topics, processes poll responses, and updates the dashboard.
 4. **Dashboard**: A web-based interface for viewing live polling results, built using Streamlit or similar technologies.
 
-![System Architecture](architecture_diagram.png)
-
 ## Installation
 
 ### Requirements
