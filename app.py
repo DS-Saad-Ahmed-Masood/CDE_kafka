@@ -1,11 +1,12 @@
 import streamlit as st
-import json
+#import json
 import pandas as pd
 from collections import Counter
 from PollResponseAPI import PollResponseAPI
 import altair as alt
 import time
-from kafka import KafkaConsumer
+#from kafka import KafkaConsumer
+
 # Set page title and icon
 st.set_page_config(
     page_title="Live Poll",
